@@ -26,7 +26,7 @@ public class MenuScreen implements Screen {
         label3.setSize(Gdx.graphics.getWidth()/3,100);
         label3.setFontScale(1.1f);
 
-        label3.setPosition(50*2,Gdx.graphics.getHeight()-100*6);
+        label3.setPosition(50*2,Gdx.graphics.getHeight()-100);
         stage.addActor(label3);
     }
 
